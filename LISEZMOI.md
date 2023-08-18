@@ -27,7 +27,22 @@ Une version courte (sans démo) de la présentation et les vidéos individuelles
 Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voici les liens pour consulter leurs codes sources, les télécharger et les tester.
 
 * [TFlowLayout](./sample-TFlowLayout)
+
 * [TScaledLayout](./sample-TScaledLayout)
+
+Quelques projets et dépôts de codes contenant des exemples :
+
+* [Embarcadero/RADStudio11Demos](https://github.com/Embarcadero/RADStudio11Demos)
+
+* ["delphi-sample" topic on GitHub](https://github.com/topics/delphi-sample)
+
+* [FMXExpress/Cross-Platform-Samples](https://github.com/FMXExpress/Cross-Platform-Samples)
+
+* [DeveloppeurPascal/Delphi-FMX-Game-Snippets](https://github.com/DeveloppeurPascal/Delphi-FMX-Game-Snippets)
+
+* [DeveloppeurPascal/Delphi-samples](https://github.com/DeveloppeurPascal/Delphi-samples)
+
+* ["delphi-game" topic on GitHub](https://github.com/topics/delphi-game)
 
 ## Liens
 
