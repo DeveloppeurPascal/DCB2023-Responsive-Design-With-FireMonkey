@@ -1,58 +1,51 @@
-# Delphi-Projects-Template
+# Comment créer un design responsif avec FireMonkey ([LearnDelphi.org](https://learndelphi.org) Coding Bootcamp 2023)
 
 [This page in english.](README.md)
 
-**Un modèle de dépôt git pour mes projets Delphi (ou autres).**
+Codes sources, liens et documents liés à la présentation proposée par [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) lors de la conférence [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/).
 
-**Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.**
+## Présentation
 
-Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+Les pages de cette présentation sont disponibles en anglais.
 
-## Utiliser ce logiciel
+Vous pouvez les consulter [sous forme d'images](./slides) ou en [télécharger un PDF](HowToCreateAResponsiveDesignInAFireMonkeyApplication-202308.pdf).
 
-Ce logiciel est disponible dans une version de production directement installable ou exécutable. Il est distribué en shareware.
+Deux webinaires ont été proposés en 2019 en français sur la même thématique :
+* **Faire une interface adaptive avec FireMonkey** à voir sur [Serial Streameur](https://serialstreameur.fr/webinaire-20190528.php) ou [YouTube](https://youtu.be/-t0ki__TcrU)
+* **Faire une interface adaptive avec la VCL** à voir sur [Serial Streameur](https://serialstreameur.fr/webinaire-20190625.php) ou [YouTube](https://youtu.be/BE6rjsXHOI8)
 
-Vous pouvez le télécharger et le rediffuser gratuitement à condition de ne pas en modifier le contenu (installeur, programme, fichiers annexes, ...).
+Les versions YouTube bénéficient d'un sous-titrage automatique et parfois de la traduction automatique. Pas toujours génial à relive mais ça devrait vous permettre de suivre si besoin.
 
-[Télécharger le programme ou son installeur](DDD)
+## Rediffusions
 
-Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes invité à en acheter une licence d'utilisateur final. L'achat d'une licence vous donnera accès aux mises à jour du logiciel en plus d'activer d'évenuelles fonctionnalités optionnelles.
+Vous pourrez (re)voir la présentation sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) ou sur [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) dans quelques jours.
 
-[Acheter une licence](FFF)
+Une version courte (sans démo) de la présentation et les vidéos individuelles seront également mises à disposition sur [YouTube](https://www.youtube.com/@DeveloppeurPascal) et [Serial Streameur](https://serialstreameur.fr) ou [Apprendre Delphi](https://apprendre-delphi.fr). Suivez ce dépôt de code pour être informé de la mise en ligne : les adresses des vidéos seront indiquées ici.
 
-Vous pouvez aussi [consulter le site du logiciel](EEE) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
+## Exemples
 
-## Installation des codes sources
+Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voici les liens pour consulter leurs codes sources, les télécharger et les tester.
 
-Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+* [TFlowLayout](./sample-TFlowLayout)
+* [TScaledLayout](./sample-TScaledLayout)
 
-Ce projet utilise des dépendances sous forme de sous modules. Ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
+## Liens
 
-* [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
-* [YYY](ZZZ) doit être installé dans le sous dossier ./lib-externes/YYY
+* [Doc Wiki](https://docwiki.embarcadero.com)
 
-## Licence d'utilisation de ce dépôt de code et de son contenu
+* [Delphi Books](https://delphi-books.com)
 
-Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
+## Bonus à télécharger
 
-Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
-* d'en faire mention dans vos projets
-* de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
-* de diffuser les codes sources de vos créations sous licence AGPL
+Si vous avez aimé mon image de fond Windows "[Do you Pascal Case ?](https://www.dropbox.com/s/q0ozh2hvjjh3w37/RADStudio-PascalCase-1920x1080.jpg?dl=1)", vous pouvez la télécharger à partir de [mon site web](https://developpeur-pascal.fr/les-fonds-d-ecran.html) avec d'autres images que créées au cours des années pour des conférences en présentiel et en ligne, des cours ou des webinaires.
 
-Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence commerciale dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
+Certaines d'entre elles sont également [disponibles sous forme de mugs](https://www.leshopdeludo.fr/326-goodies) (en très petites quantités). Pour savoir pourquoi et comment, veuillez [lire ces articles](https://developpeur-pascal.fr/goodies.html).
 
-Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
+## Commentaires et questions
 
-Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.
+[L'espace de discussion](https://github.com/DeveloppeurPascal/DCB2023-Responsive-Design-With-FireMonkey/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
 
-## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
-
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
-
-Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
-
-Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
+Si vous passez sur [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) ou [Delphi Praxis](https://en.delphipraxis.net) vous aurez une chance d'avoir une réponse de ma part puisque j'y traine aussi de temps en temps.
 
 ## Supportez ce projet et son auteur
 

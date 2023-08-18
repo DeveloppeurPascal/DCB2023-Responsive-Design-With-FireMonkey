@@ -1,58 +1,51 @@
-# Delphi-Projects-Template
+# How to create a responsive design in FireMonkey ([LearnDelphi.org](https://learndelphi.org) Coding Bootcamp 2023)
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
+Source codes, links and documents related to the presentation given by [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) during the [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/) conference.
 
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+## Presentation
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+The pages of this presentation are available in English.
 
-## Using this software
+You can view them [as images](./slides) or [download a PDF](HowToCreateAResponsiveDesignInAFireMonkeyApplication-202308.pdf).
 
-This software is available in a directly installable or executable production version. It is distributed as shareware.
+Two webinars were offered in 2019 in French on the same theme:
+* **Adaptive interfacing with FireMonkey** to be viewed on [Serial Streameur](https://serialstreameur.fr/webinaire-20190528.php) or [YouTube](https://youtu.be/-t0ki__TcrU)
+* **Adaptive interface with VCL** to be viewed on [Serial Streamer](https://serialstreameur.fr/webinaire-20190625.php) or [YouTube](https://youtu.be/BE6rjsXHOI8)
 
-You can download and redistribute it free of charge, provided you do not modify its content (installer, program, additional files, etc.).
+YouTube versions benefit from automatic subtitling and sometimes automatic translation. Not always great to watch again, but you should be able to follow along if need be.
 
-[Download program or installer](DDD)
+## Replays
 
-If you use this software regularly and are satisfied with it, you are invited to purchase an end-user license. Purchasing a license will give you access to software updates, as well as enabling optional features.
+You can (re)watch the presentation on the [LearnDelphi.org YouTube channel](https://www.youtube.com/@LearnDelphi) or on [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) in a few days.
 
-[Buy a license](FFF)
+A short version (without demo) of the presentation and the individual videos will also be made available on [YouTube](https://www.youtube.com/@DeveloppeurPascal) and [Serial Streameur](https://serialstreameur.fr) or [Apprendre Delphi](https://apprendre-delphi.fr). Follow this code repository to be informed when the videos go online: the video addresses will be indicated here.
 
-You can also [visit the software website](EEE) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
+## Examples
 
-## Source code installation
+Several Delphi projects were shown during this presentation. Here are the links to view their source code, download and test them.
 
-To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+* [TFlowLayout](./sample-TFlowLayout)
+* [TScaledLayout](./sample-TScaledLayout)
 
-This project uses dependencies in the form of sub-modules. They will be absent from the ZIP file. You'll have to download them by hand.
+## Links
 
-* [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
-* [YYY](ZZZ) must be installed in the ./lib-externes/YYY subfolder.
+* [Doc Wiki](https://docwiki.embarcadero.com)
 
-## License to use this code repository and its contents
+* [Delphi Books](https://delphi-books.com)
 
-This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
+## Bonus downloads
 
-You are generally free to use the contents of this code repository anywhere, provided that:
-* you mention it in your projects
-* distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
-* to distribute the source code of your creations under the AGPL license.
+If you liked my Windows "[Do you Pascal Case ?](https://www.dropbox.com/s/q0ozh2hvjjh3w37/RADStudio-PascalCase-1920x1080.jpg?dl=1)" background image, you can download it from [my website](https://developpeur-pascal.fr/les-fonds-d-ecran.html) with some others I used during the years for live and online conferences, courses or webinars.
 
-If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+Some of them are also [available as mugs](https://www.leshopdeludo.fr/326-goodies) (in very low quantities). To know why and how, please [read those posts](https://developpeur-pascal.fr/goodies.html).
 
-These source codes are provided as is, without warranty of any kind.
+## Comments and questions
 
-Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
+The [discussion area](https://github.com/DeveloppeurPascal/DCB2023-Responsive-Design-With-FireMonkey/discussions) is open on the repository if you have any questions or comments about this presentation. You can also contribute to other discussion forums.
 
-## How to ask a new feature, report a bug or a security issue ?
-
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
-
-If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
-
-You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+If you drop by [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) or [Delphi Praxis](https://en.delphipraxis.net), you'll have a chance of getting an answer from me, since I also hang out there from time to time.
 
 ## Support the project and its author
 
