@@ -31,9 +31,27 @@ Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voi
 
 ## Liens
 
+De nombreuses présentations de FireMonkey, du design mobile, des composants, des styles et d'autres choses autour des interfaces utilisateurs et de la programmation multiplateforme sont disponibles en ligne. Voici une toute petite sélection basée sur leurs sujets.
+
 * [Doc Wiki](https://docwiki.embarcadero.com)
 
 * [Delphi Books](https://delphi-books.com)
+
+* [Device specifications](https://www.devicespecifications.com)
+
+* [Science of Great UI - Mark Miller of DevExpress](https://youtu.be/CSj8Hb5OEQU)
+
+* [Native Response Design: Laying out Component for Dynamic Screen Sizing with Stephen Ball](https://youtu.be/0pTm8oB_260)
+
+* [FMX Animations & Tab Transitions](https://youtu.be/btUbZTvW2B0)
+
+* [Customizing Controls with FMX Styles, with Ray Konopka](https://youtu.be/j9XxM7W94p4)
+
+* [Spice Up Your Apps with Animations - Ray Konopka - Delphicon 2023](https://youtu.be/-wan1AgdfAE)
+
+* [Effectively Using Radiant Shapes with Ray Konopka - CodeRageXI](https://youtu.be/Fa3fNS0AJRo)
+
+* [Skia Mobile Splash Screen](https://youtu.be/NYlg0HlaV3c)
 
 ## Bonus à télécharger
 
