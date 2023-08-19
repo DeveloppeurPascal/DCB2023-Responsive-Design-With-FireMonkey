@@ -18,9 +18,11 @@ YouTube versions benefit from automatic subtitling and sometimes automatic trans
 
 ## Replays
 
-You can (re)watch the presentation on the [LearnDelphi.org YouTube channel](https://www.youtube.com/@LearnDelphi) or on [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) in a few days.
+Replays of this week's conference can be seen on [LearnDelphi.org's YouTube channel](https://www.youtube.com/@LearnDelphi) and [Embarcadero Technologies' YouTube channel](https://www.youtube.com/@EmbarcaderoTech).
 
-A short version (without demo) of the presentation and the individual videos will also be made available on [YouTube](https://www.youtube.com/@DeveloppeurPascal) and [Serial Streameur](https://serialstreameur.fr) or [Apprendre Delphi](https://apprendre-delphi.fr). Follow this code repository to be informed when the videos go online: the video addresses will be indicated here.
+You can also view or replay this session in [its full 59-minute version](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-coding-bootcamp-2023.html) or [a 7-minute version without the demos](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-short-version.html).
+
+The demos are rebroadcast on [the DeveloppeurPascal blog's YouTube channel](https://www.youtube.com/@DeveloppeurPascal) and [Apprendre Delphi](https://apprendre-delphi.fr/formats-courts.html).
 
 ## Examples
 

@@ -14,13 +14,15 @@ Deux webinaires ont été proposés en 2019 en français sur la même thématiqu
 * **Faire une interface adaptive avec FireMonkey** à voir sur [Serial Streameur](https://serialstreameur.fr/webinaire-20190528.php) ou [YouTube](https://youtu.be/-t0ki__TcrU)
 * **Faire une interface adaptive avec la VCL** à voir sur [Serial Streameur](https://serialstreameur.fr/webinaire-20190625.php) ou [YouTube](https://youtu.be/BE6rjsXHOI8)
 
-Les versions YouTube bénéficient d'un sous-titrage automatique et parfois de la traduction automatique. Pas toujours génial à relive mais ça devrait vous permettre de suivre si besoin.
+Les versions YouTube bénéficient d'un sous-titrage automatique et parfois de la traduction automatique. Pas toujours génial à relire mais ça devrait vous permettre de suivre si besoin.
 
 ## Rediffusions
 
-Vous pourrez (re)voir la présentation sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) ou sur [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) dans quelques jours.
+Les rediffusions de cette semaine de conférences sont visibles sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) et [la chaîne YouTube de Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech).
 
-Une version courte (sans démo) de la présentation et les vidéos individuelles seront également mises à disposition sur [YouTube](https://www.youtube.com/@DeveloppeurPascal) et [Serial Streameur](https://serialstreameur.fr) ou [Apprendre Delphi](https://apprendre-delphi.fr). Suivez ce dépôt de code pour être informé de la mise en ligne : les adresses des vidéos seront indiquées ici.
+Vous pouvez aussi voir ou revoir cette session dans [sa version complète de 59 minutes](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-coding-bootcamp-2023.html) ou [une version de 7 minutes sans les démos](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-short-version.html).
+
+Les démos sont rediffusées sur [la chaine YouTube du blog DeveloppeurPascal](https://www.youtube.com/@DeveloppeurPascal) et [Apprendre Delphi](https://apprendre-delphi.fr/formats-courts.html).
 
 ## Exemples
 
