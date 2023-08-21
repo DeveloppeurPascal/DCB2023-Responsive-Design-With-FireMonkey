@@ -22,7 +22,7 @@ Les rediffusions de cette semaine de conférences sont visibles sur [la chaîne 
 
 Vous pouvez aussi voir ou revoir cette session dans [sa version complète de 59 minutes](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-coding-bootcamp-2023.html) ou [une version de 7 minutes sans les démos](https://serialstreameur.fr/how-to-create-a-responsive-design-in-a-firemonkey-application-short-version.html).
 
-Les démos sont rediffusées sur [la chaine YouTube du blog DeveloppeurPascal](https://www.youtube.com/@DeveloppeurPascal) et [Apprendre Delphi](https://apprendre-delphi.fr/formats-courts.html).
+Les démos sont rediffusées sur [la chaine YouTube du blog DeveloppeurPascal](https://www.youtube.com/@DeveloppeurPascal) et [Apprendre Delphi](https://apprendre-delphi.fr/coding-bootcamp-2023.html).
 
 ## Exemples
 
